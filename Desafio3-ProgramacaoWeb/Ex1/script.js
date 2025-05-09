@@ -12,3 +12,8 @@ function calculateAverage() {
 
     document.getElementById('result').textContent = `Média: ${average.toFixed(2)} - Situação: ${status}`;
 }
+function resetForm() {
+    document.getElementById('grade1').value = '';
+    document.getElementById('grade2').value = '';
+    document.getElementById('result').textContent = '';
+}
