@@ -70,7 +70,7 @@ Cada exercício está em sua própria pasta com arquivos separados de HTML, JS e
 ```
 ---
 
-👨‍🎓 Objetivo
+### 👨‍🎓 Objetivo
 Este conjunto de exercícios foi desenvolvido com fins educacionais para reforçar o aprendizado de JavaScript, focando especialmente em:
 
  - Manipulação do DOM
@@ -79,12 +79,12 @@ Este conjunto de exercícios foi desenvolvido com fins educacionais para reforç
  - Condicionais e operadores
 ---
 
-📝 Licença
+## 📝 Licença
 Este projeto está licenciado sob a Licença MIT.
 Sinta-se livre para estudar, modificar e compartilhar!
 
-📩 Contato
-Gabriel Sandes
-📧 gabrielsandes1903@gmail.com 
-🔗 Linkedin: https://www.linkedin.com/in/gabriel-santos-de-sandes-476129299/
-🔗 GitHub: https://github.com/Gabrielsande
+## 📩 Contato
+# Gabriel Sandes
+# 📧 gabrielsandes1903@gmail.com 
+# 🔗 Linkedin: https://www.linkedin.com/in/gabriel-santos-de-sandes-476129299/
+# 🔗 GitHub: https://github.com/Gabrielsande
