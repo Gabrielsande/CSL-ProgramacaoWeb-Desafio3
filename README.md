@@ -84,7 +84,10 @@ Este projeto está licenciado sob a Licença MIT.
 Sinta-se livre para estudar, modificar e compartilhar!
 
 ## 📩 Contato
-# Gabriel Sandes
-# 📧 gabrielsandes1903@gmail.com 
-# 🔗 Linkedin: https://www.linkedin.com/in/gabriel-santos-de-sandes-476129299/
-# 🔗 GitHub: https://github.com/Gabrielsande
+Gabriel Sandes
+
+📧 gabrielsandes1903@gmail.com 
+
+🔗 Linkedin: https://www.linkedin.com/in/gabriel-santos-de-sandes-476129299/
+
+🔗 GitHub: https://github.com/Gabrielsande
